@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url('Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: 'Roboto', sans-serif;
+    src: url('Roboto-MediumItalic.ttf');
+}
+ul .li{
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+font-size: 12px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #777;
+}
+ul li i{
+    font-size: 14px;
+}
+h1{
+    font-family: 'Poppins',sans-serif;
+    font-weight: bold;
+}
+.add{
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
